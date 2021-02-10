@@ -1,0 +1,12 @@
+.BannerSlider {
+  position: relative;
+}
+.BannerSlider .rec-arrow {
+  position: absolute;
+  left: 0;
+  z-index: 9;
+}
+.BannerSlider .rec-arrow.rec-arrow-right {
+  right: 0;
+  left: inherit;
+}

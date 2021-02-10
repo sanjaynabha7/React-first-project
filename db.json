@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "Sanjay Kumar",
+      "rollNumber": "12",
+      "DOBage": "28-09-1992",
+      "whichclass": "2nd",
+      "address": "Nabha",
+      "phone": "09592122902",
+      "dadName": "Father Name",
+      "momName": "Mother Name",
+      "id": 1
+    }
+  ],
+  "contact-info": [
+    {
+      "name": "Sanjay Kumar",
+      "email": "sanjaynabha7@gmail.com",
+      "skill": "CSS",
+      "message": "Testing",
+      "id": 1
+    },
+    {
+      "name": "Leanne Graham",
+      "email": "incere@april.biz",
+      "skill": "PHP",
+      "message": "Multi-layered client-server neural-net",
+      "id": 2
+    },
+    {
+      "name": "Sanjay Kumar",
+      "email": "sanjaynabha7@gmail.com",
+      "skill": "PHP",
+      "message": "Proactive didactic contingency\"",
+      "id": 4
+    },
+    {
+      "name": "Sanjay Kumar",
+      "email": "sanjaynabha7@gmail.com",
+      "skill": "PHP",
+      "message": "If you want to hire me or have any feedback or questions about our service in general, please send us a message by completing our enquiry form. It’s best to call though, someone we’ll always be there for you",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
